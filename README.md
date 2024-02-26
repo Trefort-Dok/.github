@@ -1,1 +1,1 @@
-# .github
+# A trefort DÖK github repoja
